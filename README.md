@@ -14,4 +14,4 @@ Bu repo sadece Windows Firewall'da kural oluşturmaya yarayan bir regedit dosyas
 
 
                                        
-# STOP THE TROLL!
+# TROLL FREE ZONE!
